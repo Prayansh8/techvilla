@@ -19,6 +19,7 @@ function createCard(item) {
     const card = document.createElement('div');
     card.classList.add('card');
     card.innerHTML = `
+      <img src="${item.image}" alt="${item.Name}" class="doctor-image" id="doctor-${item.ID}">
       <h2>Name: ${item.Name}</h2>
       <p>Contact: ${item.Contact}</p>
       <p>Specilization: ${item.Specilization}</p>
