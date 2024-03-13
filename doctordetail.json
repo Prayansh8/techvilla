@@ -1,0 +1,263 @@
+[
+    {
+        "id": 1,
+        "Doctor Name": "Dr Sandeep Jha",
+        "Contact":9979765464 ,
+        "Email": "Drsnadeepjha.gmail.com",
+        "Specilization": "BHMS, MD - Homeopathy",
+        "Experience":"20 years",
+        "image": "https://imagesx.practo.com/providers/dr-sandeep-jha-homoeopath-bhopal-e3e86125-0933-4686-9b98-88e2483e2113.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "Doctor Name": "Dr S S Rajput ",
+        "Contact": 9976376264,
+        "Email": "drssrajput.gmail.com",
+        "Specilization": "Pediatrician",
+        "Experience":"38 years",
+        "image": "https://imagesx.practo.com/providers/dr-s-s-rajput-pediatrician-bhopal-c5af5e31-4fb3-4377-acee-b1ce0e0ef261.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "Doctor Name": "Dr. Nilay Singh Rajput ",
+        "Contact": 7937748938,
+        "Email": "nilaysinghrajput.gmail.com",
+        "Specilization": "General Physician",
+        "Experience":"38 years",
+        "image": "https://imagesx.practo.com/providers/dr-nilay-singh-rajput-general-physician-bhopal-6c248c36-7691-4108-85f4-d0903eefd437.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 4.3,
+            "count": 275
+        }
+    },
+    {
+        "id": 4,
+        "Doctor Name": "Dr. Vijay Kumar Nandmer ",
+        "Contact": 984736647,
+        "Email": "vijaykumar.gmail.com",
+        "Specilization": "Neurologist",
+        "Experience":"26 years",
+        "image": "https://imagesx.practo.com/providers/dr-vijay-kumar-nandmer-neurologist-bhopal-7f889293-426f-49b9-a279-b240b91ac833.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 4.7,
+            "count": 259
+        }
+    },
+    {
+        "id": 5,
+        "Doctor Name": "Dr. Mohammed Raza ",
+        "Contact":934764763,
+        "Email": "drmohammed.gmail.com",
+        "Specilization": "General Physician",
+        "Experience":"12 years",
+        "image": "https://imagesx.practo.com/providers/dr-mohammed-raza-general-physician-bhopal-e650025c-30d3-4fe5-817e-e3869b93e827.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 3.9,
+            "count": 119
+        }
+    },
+    {
+        "id": 6,
+        "Doctor Name": "Dr. J. P. Chowdhary ",
+        "Contact": 834873946,
+        "Email": "drchowdhary.gmail.com",
+        "Specilization": "General Physician",
+        "Experience":"37 years",
+        "image": "https://imagesx.practo.com/providers/dr-j-p-chowdhary-general-physician-bhopal-84da6c96-c5ff-4c75-bf79-de8e84988d1e.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 4.2,
+            "count": 359
+        }
+    },
+    {
+        "id": 7,
+        "Doctor Name": "Dr. Amit Samadhiya ",
+        "Contact": 984376463,
+        "Email": "dramitsamadhiya.gmail.com",
+        "Specilization": "General Physician",
+        "Experience":"10 years",
+        "image": "https://imagesx.practo.com/providers/dr-amit-samadhiya-general-physician-bhopal-512dc829-1fff-4dfd-989c-0c187d2bc0da.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 3.1,
+            "count": 159
+        }
+    },
+    {
+        "id": 8,
+        "Doctor Name": "Dr. Satyendra Gupta ",
+        "Contact": 947876473,
+        "Email": "drsatendra.gmail.com",
+        "Specilization": "men's clothing",
+        "Experience":"33 years",
+        "image": "https://imagesx.practo.com/providers/dr-satyendra-gupta-orthodontist-bhopal-add7d841-d083-4760-8b9f-d6533034670f.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 4.5,
+            "count": 275
+        }
+    },
+    {
+        "id":9 ,
+        "Doctor Name": "Dr. Mithin Krishnan R ",
+        "Contact": 976354673 ,
+        "Email": "drmithin.gmail.com",
+        "Specilization": "Ayurveda ",
+        "Experience":" 7 years",
+        "image": "https://imagesx.practo.com/providers/dr-mithin-krishnan-r-ayurveda-bhopal-21dadc26-0b11-4909-a87f-2c101ee8a3c0.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 3.1,
+            "count": 209
+        }
+    },
+    {
+        "id": 10,
+        "Doctor Name": " Dr. Deepesh Yadav",
+        "Contact": 982636552 ,
+        "Email": "drdeepeshyadav.gmail.com",
+        "Specilization": " Homoeopath,Sexologist",
+        "Experience":" 21 years",
+        "image": "https://imagesx.practo.com/providers/dr-deepesh-yadav-homoeopath-bhopal-f562a25d-5fcf-4ca7-b9d9-46abf56eeaea.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 3.9,
+            "count": 202
+        }
+    },
+    {
+        "id": 11 ,
+        "Doctor Name": "Dr. Rajesh Manghnani ",
+        "Contact": 976554884,
+        "Email": "drrajesh.gmail.com",
+        "Specilization": "Homoeopath,Sexologist ",
+        "Experience":" 17 years",
+        "image": "https://imagesx.practo.com/providers/dr-rajesh-manghnani-homoeopath-bhopal-3e2f05ff-a780-44b5-8fd9-491db6df1dee.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 4.5,
+            "count": 169
+        }
+    },
+    {
+        "id": 12 ,
+        "Doctor Name": " Dr. Praveena Agarwal",
+        "Contact":876545789 ,
+        "Email": "drpraveena.gmail.com",
+        "Specilization": "Obstetrician,Gynecologist ",
+        "Experience":"37 years",
+        "image": "https://imagesx.practo.com/providers/dr-praveena-agarwal-obstetrician-bhopal-6ecb8c3a-a749-4148-97df-94c91cae42db.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 4.5,
+            "count": 299
+        }
+    },
+    {
+        "id": 13 ,
+        "Doctor Name": "Dr. Ankita Jindal ",
+        "Contact": 976544686,
+        "Email": "drankita54.gmail.com",
+        "Specilization": "Periodontist,Dentist,Implantologist ",
+        "Experience":"16 years",
+        "image": "https://imagesx.practo.com/providers/dr-ankita-jindal-periodontist-bhopal-b837da1c-0049-4edd-9521-c4bccfd42b83.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 3.1,
+            "count": 275
+        }
+    },
+    {
+        "id": 14 ,
+        "Doctor Name": "Dr. Rajul Khare ",
+        "Contact":972654562 ,
+        "Email": "drrajul96.gmail.com",
+        "Specilization": " Dentist,Dentofacial Orthopedist,Orthodontist,Dental Surgeon",
+        "Experience":" 13 years",
+        "image": "https://imagesx.practo.com/providers/dr-rajul-khare-dentist-bhopal-18055f99-2bdc-44db-b331-aa286869653a.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 3.8,
+            "count": 178
+        }
+    },
+    {
+        "id": 15,
+        "Doctor Name": "Dr. Surendra Gujarkar ",
+        "Contact": 976544675 ,
+        "Email": "drsurendra88.gmail.com",
+        "Specilization": "Dentist ",
+        "Experience":"13 years",
+        "image": "https://imagesx.practo.com/providers/dr-surendra-gujarkar-dentist-bhopal-6707c361-062d-4e66-a8b7-855d7b848061.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 3.9,
+            "count": 118
+        }
+    },
+    {
+        "id": 16 ,
+        "Doctor Name": " Mr. Thomas John",
+        "Contact": 80387262 ,
+        "Email": "drthomasjhon.gmail.com",
+        "Specilization": " Physiotherapist",
+        "Experience":"26 years",
+        "image": "https://imagesx.practo.com/providers/mr-thomas-john-physiotherapist-bhopal-0e2e486e-88f8-4b6f-90ee-e6069168ffbc.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 4.8,
+            "count": 287
+        }
+    },
+    {
+        "id": 17 ,
+        "Doctor Name": " Dr. Sanjeev Bajpai",
+        "Contact": 98374634,
+        "Email": "drbapai79.gmail.com",
+        "Specilization": " Dentist",
+        "Experience":"32 years",
+        "image": "https://imagesx.practo.com/providers/dr-sanjeev-bajpai-dentist-bhopal-fdc21483-6ad1-4492-a5f5-4c829c2be0ed.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 18 ,
+        "Doctor Name": "Dr. Akhilesh Jain ",
+        "Contact": 883636748 ,
+        "Email": "drakhileshain.gmail.com",
+        "Specilization": " Dental Surgeon",
+        "Experience":"37 years",
+        "image": "https://imagesx.practo.com/providers/dr-akhilesh-jain-dental-surgeon-bhopal-539a9e5f-65be-45e0-a22f-54a8bf1f9d57.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 4.3,
+            "count": 279
+        }
+    },
+    {
+        "id": 19 ,
+        "Doctor Name": " Mr. Varun Kumar Malviya",
+        "Contact":863672844 ,
+        "Email": "drvarunkumarmalviya.gmail.com",
+        "Specilization": " Physiotherapist",
+        "Experience":"14 years",
+        "image": "https://imagesx.practo.com/providers/mr-varun-kumar-malviya-sports-and-musculoskeletal-physiotherapist-bhopal-f5e27215-bc43-43c2-a3c5-9c55f154c47b.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 3.6,
+            "count": 183
+        }
+    },
+    {
+        "id": 20 ,
+        "Doctor Name": " Dr. Surendra Nath Tripathi",
+        "Contact":937263644 ,
+        "Email": "drsurendranath77.gmail.com",
+        "Specilization": "Homoeopath ",
+        "Experience":"32 years",
+        "image": "https://imagesx.practo.com/providers/dr-surendra-nath-tripathi-homoeopath-bhopal-0c389413-23fd-4301-ad74-e66280611884.jpg?i_type=t_70x70",
+        "rating": {
+            "rate": 4.2,
+            "count": 279
+        }
+    }
+    
+]
