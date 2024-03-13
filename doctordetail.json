@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "Doctor Name": "Dr Sandeep Jha",
+        "Name": "Dr Sandeep Jha",
         "Contact":9979765464 ,
         "Email": "Drsnadeepjha.gmail.com",
         "Specilization": "BHMS, MD - Homeopathy",
@@ -14,7 +14,7 @@
     },
     {
         "id": 2,
-        "Doctor Name": "Dr S S Rajput ",
+        "Name": "Dr S S Rajput ",
         "Contact": 9976376264,
         "Email": "drssrajput.gmail.com",
         "Specilization": "Pediatrician",
@@ -27,7 +27,7 @@
     },
     {
         "id": 3,
-        "Doctor Name": "Dr. Nilay Singh Rajput ",
+        "Name": "Dr. Nilay Singh Rajput ",
         "Contact": 7937748938,
         "Email": "nilaysinghrajput.gmail.com",
         "Specilization": "General Physician",
@@ -40,7 +40,7 @@
     },
     {
         "id": 4,
-        "Doctor Name": "Dr. Vijay Kumar Nandmer ",
+        "Name": "Dr. Vijay Kumar Nandmer ",
         "Contact": 984736647,
         "Email": "vijaykumar.gmail.com",
         "Specilization": "Neurologist",
@@ -53,7 +53,7 @@
     },
     {
         "id": 5,
-        "Doctor Name": "Dr. Mohammed Raza ",
+        "Name": "Dr. Mohammed Raza ",
         "Contact":934764763,
         "Email": "drmohammed.gmail.com",
         "Specilization": "General Physician",
@@ -66,7 +66,7 @@
     },
     {
         "id": 6,
-        "Doctor Name": "Dr. J. P. Chowdhary ",
+        "Name": "Dr. J. P. Chowdhary ",
         "Contact": 834873946,
         "Email": "drchowdhary.gmail.com",
         "Specilization": "General Physician",
@@ -79,7 +79,7 @@
     },
     {
         "id": 7,
-        "Doctor Name": "Dr. Amit Samadhiya ",
+        "Name": "Dr. Amit Samadhiya ",
         "Contact": 984376463,
         "Email": "dramitsamadhiya.gmail.com",
         "Specilization": "General Physician",
@@ -92,7 +92,7 @@
     },
     {
         "id": 8,
-        "Doctor Name": "Dr. Satyendra Gupta ",
+        "Name": "Dr. Satyendra Gupta ",
         "Contact": 947876473,
         "Email": "drsatendra.gmail.com",
         "Specilization": "men's clothing",
@@ -105,7 +105,7 @@
     },
     {
         "id":9 ,
-        "Doctor Name": "Dr. Mithin Krishnan R ",
+        "Name": "Dr. Mithin Krishnan R ",
         "Contact": 976354673 ,
         "Email": "drmithin.gmail.com",
         "Specilization": "Ayurveda ",
@@ -118,7 +118,7 @@
     },
     {
         "id": 10,
-        "Doctor Name": " Dr. Deepesh Yadav",
+        "Name": " Dr. Deepesh Yadav",
         "Contact": 982636552 ,
         "Email": "drdeepeshyadav.gmail.com",
         "Specilization": " Homoeopath,Sexologist",
@@ -131,7 +131,7 @@
     },
     {
         "id": 11 ,
-        "Doctor Name": "Dr. Rajesh Manghnani ",
+        "Name": "Dr. Rajesh Manghnani ",
         "Contact": 976554884,
         "Email": "drrajesh.gmail.com",
         "Specilization": "Homoeopath,Sexologist ",
@@ -144,7 +144,7 @@
     },
     {
         "id": 12 ,
-        "Doctor Name": " Dr. Praveena Agarwal",
+        "Name": " Dr. Praveena Agarwal",
         "Contact":876545789 ,
         "Email": "drpraveena.gmail.com",
         "Specilization": "Obstetrician,Gynecologist ",
@@ -157,7 +157,7 @@
     },
     {
         "id": 13 ,
-        "Doctor Name": "Dr. Ankita Jindal ",
+        "Name": "Dr. Ankita Jindal ",
         "Contact": 976544686,
         "Email": "drankita54.gmail.com",
         "Specilization": "Periodontist,Dentist,Implantologist ",
@@ -170,7 +170,7 @@
     },
     {
         "id": 14 ,
-        "Doctor Name": "Dr. Rajul Khare ",
+        "Name": "Dr. Rajul Khare ",
         "Contact":972654562 ,
         "Email": "drrajul96.gmail.com",
         "Specilization": " Dentist,Dentofacial Orthopedist,Orthodontist,Dental Surgeon",
@@ -183,7 +183,7 @@
     },
     {
         "id": 15,
-        "Doctor Name": "Dr. Surendra Gujarkar ",
+        "Name": "Dr. Surendra Gujarkar ",
         "Contact": 976544675 ,
         "Email": "drsurendra88.gmail.com",
         "Specilization": "Dentist ",
@@ -196,7 +196,7 @@
     },
     {
         "id": 16 ,
-        "Doctor Name": " Mr. Thomas John",
+        "Name": " Mr. Thomas John",
         "Contact": 80387262 ,
         "Email": "drthomasjhon.gmail.com",
         "Specilization": " Physiotherapist",
@@ -209,7 +209,7 @@
     },
     {
         "id": 17 ,
-        "Doctor Name": " Dr. Sanjeev Bajpai",
+        "Name": " Dr. Sanjeev Bajpai",
         "Contact": 98374634,
         "Email": "drbapai79.gmail.com",
         "Specilization": " Dentist",
@@ -222,7 +222,7 @@
     },
     {
         "id": 18 ,
-        "Doctor Name": "Dr. Akhilesh Jain ",
+        "Name": "Dr. Akhilesh Jain ",
         "Contact": 883636748 ,
         "Email": "drakhileshain.gmail.com",
         "Specilization": " Dental Surgeon",
@@ -235,7 +235,7 @@
     },
     {
         "id": 19 ,
-        "Doctor Name": " Mr. Varun Kumar Malviya",
+        "Name": " Mr. Varun Kumar Malviya",
         "Contact":863672844 ,
         "Email": "drvarunkumarmalviya.gmail.com",
         "Specilization": " Physiotherapist",
@@ -248,7 +248,7 @@
     },
     {
         "id": 20 ,
-        "Doctor Name": " Dr. Surendra Nath Tripathi",
+        "Name": " Dr. Surendra Nath Tripathi",
         "Contact":937263644 ,
         "Email": "drsurendranath77.gmail.com",
         "Specilization": "Homoeopath ",
